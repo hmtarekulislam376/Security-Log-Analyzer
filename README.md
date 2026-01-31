@@ -1,4 +1,4 @@
-# 🔐 Failed Login Analyzer
+# 🔐 Security Log Analyzer
 
 A Python-based security tool that analyzes server log files to detect and report suspicious failed login attempts by tracking IP addresses.
 
